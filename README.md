@@ -1,8 +1,10 @@
 # Captain
 
+
+
 Captain is my own personal take on a cross between GearBot and Rowboat. Of course, this bot is still in development and will be for a very long time.
 
-**If you need support or wish to report a bug, please join my Discord server: https://discord.gg/EBFhZYY**
+**If you need support or wish to report a bug, please create an issue
 
 ## Features
 
